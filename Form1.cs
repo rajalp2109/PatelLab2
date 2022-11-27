@@ -49,6 +49,7 @@ namespace PatelLab2
             txtNum1.Text = "";
             txtNum2.Text = "";
             lblAnswer.Text = "";
+            txtNum1.Focus();
         }
 
         private void btnData_Click(object sender, EventArgs e)
